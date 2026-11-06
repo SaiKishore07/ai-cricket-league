@@ -1,3 +1,4 @@
+
 # Cricket Tournament Teams API
 
 The API stores teams in PostgreSQL. You need PostgreSQL running locally or a
@@ -58,3 +59,6 @@ stops or restarts.
 
 Run `python -m unittest -v` from this folder. These tests mock PostgreSQL, so
 they verify API behavior without requiring a running database.
+=======
+# ai-cricket-league
+Backend API for AI Cricket league using Python and FastAPI
